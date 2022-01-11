@@ -1,0 +1,7 @@
+name: My Actions
+on: [push]
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Verifying Pyhton"
