@@ -2,4 +2,4 @@
 My main file
 """
 
-print "Hello from python")
+print ("Hello from python")
