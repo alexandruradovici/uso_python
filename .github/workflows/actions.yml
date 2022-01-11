@@ -9,5 +9,5 @@ jobs:
       with:
         python-version: "3.x"
     - run: pip install pylint
-    - run: pylint **/*.py
+    - run: pylint main.py
   
